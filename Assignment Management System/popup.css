@@ -1,0 +1,10 @@
+.modal-header {
+    background-color: red;
+}
+.ass {
+    width: 100%;
+    text-align: center;
+}
+.modal-body input[type="text"]{
+    text-size-adjust: 100%;
+}
